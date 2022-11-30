@@ -1,4 +1,4 @@
-# Solving AoC 2021 problems in OCaml
+# Solving AoC 2022 problems in OCaml
 
 ![Logo](https://raw.githubusercontent.com/DrearyLisper/aoc-2022/master/images/logo.png)
 
