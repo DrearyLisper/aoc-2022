@@ -1,4 +1,4 @@
-## Day 01: Calorie Counting
+## Day 02: Rock Paper Scissors
 
 ### Part 1
 
