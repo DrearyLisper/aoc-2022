@@ -23,3 +23,13 @@ aoc-2022/02$ dune exec --display quiet --no-print-directory ./day02.exe
 14375
 10274
 ```
+
+## Day 03: Rucksack Reorganization
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/03)
+
+``` console
+ld86@xenos:~/Source/aoc-2022/03$ dune exec --display quiet --no-print-directory ./day03.exe
+8072
+2567
+```
