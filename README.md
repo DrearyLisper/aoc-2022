@@ -33,3 +33,13 @@ aoc-2022/03$ dune exec --display quiet --no-print-directory ./day03.exe
 8072
 2567
 ```
+
+## Day 04: Camp Cleanup
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/04)
+
+``` console
+aoc-2022/04$ dune exec --display quiet --no-print-directory ./day04.exe 
+511
+821
+```
