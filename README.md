@@ -43,3 +43,13 @@ aoc-2022/04$ dune exec --display quiet --no-print-directory ./day04.exe
 511
 821
 ```
+
+## Day 05: Supply Stacks
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/05)
+
+``` console
+aoc-2022/05$ dune exec --display quiet --no-print-directory ./day05.exe 
+PSNRGBTFT
+BNTZFPMMW
+```
