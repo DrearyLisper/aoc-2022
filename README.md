@@ -1,3 +1,5 @@
+[![OCaml CI](https://github.com/DrearyLisper/aoc-2022/actions/workflows/ocaml.yml/badge.svg)](https://github.com/DrearyLisper/aoc-2022/actions/workflows/ocaml.yml)
+
 # Solving AoC 2022 problems in OCaml
 
 ![Logo](https://raw.githubusercontent.com/DrearyLisper/aoc-2022/master/images/logo.png)
