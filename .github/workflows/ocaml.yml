@@ -14,5 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: ocaml/setup-ocaml@v2
+      with:
+        ocaml-compiler: 5.0.0~beta1
     - run: opam install . --deps-only --with-test
     - run: opam exec -- dune build
