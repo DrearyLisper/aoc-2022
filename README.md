@@ -55,3 +55,13 @@ aoc-2022/05$ dune exec --display quiet --no-print-directory ./day05.exe
 PSNRGBTFT
 BNTZFPMMW
 ```
+
+## Day 06: Tuning Trouble
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/06)
+
+``` console
+aoc-2022/06$ dune exec --display quiet --no-print-directory ./day06.exe
+1361
+3263
+```
