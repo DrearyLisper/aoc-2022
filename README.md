@@ -65,3 +65,13 @@ aoc-2022/06$ dune exec --display quiet --no-print-directory ./day06.exe
 1361
 3263
 ```
+
+## Day 07: No Space Left On Device
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/07)
+
+``` console
+aoc-2022/07$ dune exec --display quiet --no-print-directory ./day07.exe
+1501149
+10096985
+```
