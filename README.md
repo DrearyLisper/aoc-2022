@@ -75,3 +75,13 @@ aoc-2022/07$ dune exec --display quiet --no-print-directory ./day07.exe
 1501149
 10096985
 ```
+
+## Day 08: Treetop Tree House
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/08)
+
+``` console
+aoc-2022/08$ dune exec --display quiet --no-print-directory ./day08.exe
+1705
+371200
+```
