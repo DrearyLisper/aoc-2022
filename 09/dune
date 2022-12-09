@@ -1,0 +1,5 @@
+(executable
+ (public_name day09)
+ (name day09)
+ (preprocess (pps ppx_deriving.show))
+ (libraries core))

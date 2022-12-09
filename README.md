@@ -85,3 +85,13 @@ aoc-2022/08$ dune exec --display quiet --no-print-directory ./day08.exe
 1705
 371200
 ```
+
+## Day 09: Rope Bridge
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/09)
+
+``` console
+aoc-2022/09$ dune exec --display quiet --no-print-directory ./day09.exe
+6337
+2455
+```
