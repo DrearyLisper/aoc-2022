@@ -95,3 +95,18 @@ aoc-2022/09$ dune exec --display quiet --no-print-directory ./day09.exe
 6337
 2455
 ```
+
+## Day 10: Cathode-Ray Tube
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/10)
+
+``` console
+aoc-2022/10$ dune exec --display quiet --no-print-directory ./day10.exe
+14560
+####.#..#.###..#..#.####.###..#..#.####.
+#....#.#..#..#.#..#.#....#..#.#..#....#.
+###..##...#..#.####.###..#..#.#..#...#..
+#....#.#..###..#..#.#....###..#..#..#...
+#....#.#..#.#..#..#.#....#....#..#.#....
+####.#..#.#..#.#..#.####.#.....##..####.
+```
