@@ -110,3 +110,13 @@ aoc-2022/10$ dune exec --display quiet --no-print-directory ./day10.exe
 #....#.#..#.#..#..#.#....#....#..#.#....
 ####.#..#.#..#.#..#.####.#.....##..####.
 ```
+
+## Day 11: Monkey in the Middle
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/11)
+
+``` console
+aoc-2022/11$ dune exec --display quiet --no-print-directory ./day11.exe
+95472
+17926061332
+```
