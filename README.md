@@ -127,6 +127,6 @@ aoc-2022/11$ dune exec --display quiet --no-print-directory ./day11.exe
 
 ``` console
 aoc-2022/12$ dune exec --display quiet --no-print-directory ./day12.exe 
-31
-29
+391
+386
 ```

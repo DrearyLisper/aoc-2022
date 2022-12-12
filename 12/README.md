@@ -68,6 +68,6 @@ What is the fewest steps required to move starting from any square with elevatio
 
 ``` console
 aoc-2022/12$ dune exec --display quiet --no-print-directory ./day12.exe 
-31
-29
+391
+386
 ```
