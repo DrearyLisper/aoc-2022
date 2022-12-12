@@ -120,3 +120,13 @@ aoc-2022/11$ dune exec --display quiet --no-print-directory ./day11.exe
 95472
 17926061332
 ```
+
+## Day 12: Hill Climbing Algorithm
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/12)
+
+``` console
+aoc-2022/12$ dune exec --display quiet --no-print-directory ./day12.exe 
+31
+29
+```
