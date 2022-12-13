@@ -1,0 +1,4 @@
+(executable
+ (public_name day13)
+ (name day13)
+ (libraries core))

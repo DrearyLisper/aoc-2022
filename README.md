@@ -130,3 +130,13 @@ aoc-2022/12$ dune exec --display quiet --no-print-directory ./day12.exe
 391
 386
 ```
+
+## Day 13: Distress Signal
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/13)
+
+``` console
+aoc-2022/13$ dune exec --display quiet --no-print-directory ./day13.exe
+6484
+19305
+```
