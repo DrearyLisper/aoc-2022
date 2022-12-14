@@ -140,3 +140,13 @@ aoc-2022/13$ dune exec --display quiet --no-print-directory ./day13.exe
 6484
 19305
 ```
+
+## Day 14: Regolith Reservoir
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/14)
+
+``` console
+aoc-2022/14$ dune exec --display quiet --no-print-directory ./day14.exe
+838
+27539
+```
