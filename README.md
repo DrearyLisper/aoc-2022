@@ -150,3 +150,13 @@ aoc-2022/14$ dune exec --display quiet --no-print-directory ./day14.exe
 838
 27539
 ```
+
+## Day 15: Beacon Exclusion Zone
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/15)
+
+``` console
+aoc-2022/15$ dune exec --display quiet --no-print-directory ./day15.exe
+4725496
+12051287042458
+```
