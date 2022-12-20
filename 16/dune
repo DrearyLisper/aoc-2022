@@ -1,4 +1,4 @@
 (executable
  (public_name day16)
  (name day16)
- (libraries core re containers))
+ (libraries core re))
