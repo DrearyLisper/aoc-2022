@@ -160,3 +160,13 @@ aoc-2022/15$ dune exec --display quiet --no-print-directory ./day15.exe
 4725496
 12051287042458
 ```
+
+## Day 16: Proboscidea Volcanium
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/16)
+
+``` console
+aoc-2022/16$ dune exec --display quiet --no-print-directory ./day16.exe 
+2029
+2723
+```
