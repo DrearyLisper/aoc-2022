@@ -180,3 +180,13 @@ aoc-2022/17$ dune exec --display quiet --no-print-directory ./day17.exe
 3071
 1523615160362
 ```
+
+## Day 18: Boiling Boulders
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/18)
+
+``` console
+aoc-2022/18$ dune exec --display quiet --no-print-directory ./day18.exe
+4608
+2652
+```
