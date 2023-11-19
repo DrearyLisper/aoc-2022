@@ -1,0 +1,7 @@
+(executable
+ (public_name day20)
+ (name day20)
+ (libraries core re))
+(env
+  (dev
+    (ocamlopt_flags (:standard -O3))))

@@ -200,3 +200,13 @@ aoc-2022/19$ dune exec --display quiet --no-print-directory ./day19.exe
 1719
 19530
 ```
+
+## Day 20: Grove Positioning System
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/20)
+
+``` console
+aoc-2022/20$ dune exec --display quiet --no-print-directory ./day20.exe
+3466
+9995532008348
+```
