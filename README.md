@@ -190,3 +190,13 @@ aoc-2022/18$ dune exec --display quiet --no-print-directory ./day18.exe
 4608
 2652
 ```
+
+## Day 19: Not Enough Minerals
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/19)
+
+``` console
+aoc-2022/19$ dune exec --display quiet --no-print-directory ./day19.exe
+1719
+19530
+```

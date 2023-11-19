@@ -1,4 +1,4 @@
-## Day 18:
+## Day 18: Boiling Boulders
 
 ### Part 1
 
