@@ -210,3 +210,13 @@ aoc-2022/20$ dune exec --display quiet --no-print-directory ./day20.exe
 3466
 9995532008348
 ```
+
+## Day 21: Monkey Math
+
+[Full Description](https://github.com/DrearyLisper/aoc-2022/tree/master/21)
+
+``` console
+aoc-2022/21$ dune exec --display quiet --no-print-directory ./day21.exe
+49288254556480
+3558714869436
+```
